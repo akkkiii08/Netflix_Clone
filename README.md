@@ -26,9 +26,9 @@ A responsive Netflix-like web application built using **React.js** and **Firebas
 
 - **Frontend**: React.js, React Router, Axios
 - **Authentication**: Firebase Auth
-- **Styling**: CSS Modules / TailwindCSS / Styled-Components (choose your preferred)
+- **Styling**: CSS Modules / TailwindCSS / Styled-Components 
 - **API**: TMDb API
-- **Hosting**: Firebase Hosting (optional)
+  
 
 ---
 
